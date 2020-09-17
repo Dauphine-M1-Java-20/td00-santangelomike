@@ -1,0 +1,23 @@
+Santangelo Mike
+
+td00-maven
+
+Exercice 1:
+
+4. Avec la commande mvn -v, je trouve que ma version de maven est 3.6.3.
+5. le paramètre groupId représente un identifiant pour un groupe ou une organisation qui a créé le projet. groupId représente le nom du projet.
+6. Ce répertoire contient des fichiers class, et des fichiers lst listant les fichiers en input et les fichiers créés.
+8. le classpath est un ensemble de chemins que la machine virtuelle Java utilise pour chercher les ressources et dépendances nécessaires à la compilation.
+13. maven.compiler.target désigne la version de Java avec laquelle les fichiers compilés pourront s'éxecuter. On peut donc spécifier la version de Java installée sur notre machine.
+
+Exercice 2:
+
+1. Une erreur s'affiche "aucun attribut manifest principal dans target/td00-1.0-SNAPSHOT.jar"
+
+Exercice 3:
+
+3. Ca remplace sysout par System.out.println();
+4. déploie un modèle de la méthode toString()
+5. déploie un modèle de la méthode main()
+6. Ca propose d'écrire les fonctions getter et setter pour la variable toto.
+7. Ca change le nom des classes et variables en renommant automatiquement les endroits dans le code où la classe ou variable est appelée. Ca modifie aussi le nom du fichier automatiquement si l'on change le nom de la classe principale.
