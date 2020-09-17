@@ -34,3 +34,7 @@ Exercice 2:
 5. Un conflit est indiqué car on n'a pas intégré les derniers changements du dépôt distant avant de push et on modifie un fichier qui a été modifié par les changements qu'on n'a pas intégré à notre dépôt local.
 6. Les deux commits conflictuels sont fusionnés vers le HEAD.
 7. Une intervention manuelle aurait été requise.
+
+Exercice 3:
+
+2. Une fenêtre JUnit s'affiche avec les résultats des tests (il n'y en a qu'un seul pour l'instant). Quand on change assertTrue(true) en assertTrue(false), la fenêtre JUnit indique une mauvaise assertion. assertTrue peut indiquer la valeur d'une expression booléenne.
