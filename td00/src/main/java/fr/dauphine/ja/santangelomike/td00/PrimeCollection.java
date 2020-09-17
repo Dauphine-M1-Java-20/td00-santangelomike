@@ -34,7 +34,7 @@ public class PrimeCollection
 	
     public static void main( String[] args )
     {
-    	initRandom(100, 999);
+    	initRandom(100, 1999);
     	numbers.replaceAll(new UnaryOperator<Integer>() {
 			@Override
 			public Integer apply(Integer i) {
