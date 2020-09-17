@@ -21,3 +21,5 @@ Exercice 3:
 5. déploie un modèle de la méthode main()
 6. Ca propose d'écrire les fonctions getter et setter pour la variable toto.
 7. Ca change le nom des classes et variables en renommant automatiquement les endroits dans le code où la classe ou variable est appelée. Ca modifie aussi le nom du fichier automatiquement si l'on change le nom de la classe principale.
+
+test
