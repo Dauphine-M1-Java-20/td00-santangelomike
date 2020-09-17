@@ -27,6 +27,18 @@ public class PrimeCollectionTest
     {
         return new TestSuite( PrimeCollectionTest.class );
     }
+    
+    public void test0IsPrime() {
+    	assertTrue(!PrimeCollection.isPrime(0));
+    }
+    
+    public void test2IsPrime() {
+    	assertTrue(PrimeCollection.isPrime(2));
+    }
+    
+    public void test9IsPrime() {
+    	assertTrue(!PrimeCollection.isPrime(9));
+    }
 
     /**
      * Rigourous Test :-)

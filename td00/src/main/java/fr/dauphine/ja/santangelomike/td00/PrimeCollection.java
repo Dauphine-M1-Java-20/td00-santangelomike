@@ -18,7 +18,8 @@ public class PrimeCollection
 		}
 	}
 	
-	private static boolean isPrime(int p) {
+	static boolean isPrime(int p) {
+		if (p <= 1) return false;
 		int sqrt = (int) Math.sqrt(p);
 		for (int i = 2; i < sqrt + 1; i++) {
 			if (p % i == 0) return false;
