@@ -1,4 +1,3 @@
-test
 Santangelo Mike
 
 td00-maven
@@ -23,4 +22,15 @@ Exercice 3:
 6. Ca propose d'écrire les fonctions getter et setter pour la variable toto.
 7. Ca change le nom des classes et variables en renommant automatiquement les endroits dans le code où la classe ou variable est appelée. Ca modifie aussi le nom du fichier automatiquement si l'on change le nom de la classe principale.
 
-test
+td00bis-git
+
+Exercice 1:
+
+5. git diff affiche la ligne modifiée
+
+Exercice 2:
+
+3. master et remotes/origin/master sont au même niveau, et il n'y a pas de message indiquant des modifications non enregistrées
+5. Un conflit est indiqué car on n'a pas intégré les derniers changements du dépôt distant avant de push et on modifie un fichier qui a été modifié par les changements qu'on n'a pas intégré à notre dépôt local.
+6. Les deux commits conflictuels sont fusionnés vers le HEAD.
+7. Une intervention manuelle aurait été requise.
